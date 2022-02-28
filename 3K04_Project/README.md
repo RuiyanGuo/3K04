@@ -1,1 +1,1 @@
-This project implements the functionality a pacemaker. The pacemaker is implemented through the MATLAB-SIMULINK, the user interface is handled by Python
+This project implements the functionality of a pacemaker. The pacemaker is implemented through the MATLAB-SIMULINK, the user interface (GUI) is designed in Python
